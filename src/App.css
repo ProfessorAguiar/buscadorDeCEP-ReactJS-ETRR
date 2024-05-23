@@ -40,3 +40,31 @@
 .read-the-docs {
   color: #888;
 }
+.buscar{
+  height: 40px;
+  padding: 3px;
+  background-color: rgb(64, 37, 238);
+  color: #fffb00;
+  border-color: #fffb00;
+  border-width: 2px;
+  font-size: 17px;
+  width: 95px;
+}
+.app{
+  background-color: #5d5d5d;
+  border-radius: 15px;
+  padding: 25px;
+  box-shadow: 4px 4px 4px #333;
+}
+h1{
+  color:#fffb00;
+  font-size: 38px;
+  font-weight: 600;
+  margin:50px;
+  text-shadow: 3px 3px 2px rgb(64, 37, 238);
+}
+input{
+  margin: 15px;
+  height: 35px;
+  border-radius: 7px;
+}
